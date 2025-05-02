@@ -1,5 +1,5 @@
 ## Hi there, I'm Roman 👋
-hows it it going
+I'm a web developer and passionate about web develpment and technology!
 <!--
 **RMWernsing/RMWernsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
