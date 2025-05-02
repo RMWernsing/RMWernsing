@@ -1,6 +1,6 @@
-## Hi there, I'm Roman 👋
+<h1>Hi there, I'm Roman 👋</h1>
 I'm a web developer and passionate about web develpment and technology!
-<h1>Tech Stack!💻</h1>
+<h2>Tech Stack!💻</h2>
 <!--
 **RMWernsing/RMWernsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
